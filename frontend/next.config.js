@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   trailingSlash: true,
   images: {
-    domains: ["localhost"],
+    domains: ["car-web-api.vercel.app"],
   },
 };
 
